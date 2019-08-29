@@ -24,11 +24,8 @@ Genel olarak Hacklink satışlarımız tanıtım yazısı üzerinedir. Elimizde 
 
 ### İletişim Bilgilerimiz.
 ```
- Mail: darkseotr@gmail.com
+Mail: darkseotr@gmail.com
  Skype: Yakında
  Telegram: Yakında
  ICQ: Yakında
-
-```
-The final element.
 ```
