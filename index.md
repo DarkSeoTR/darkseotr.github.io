@@ -23,11 +23,11 @@ Genel olarak Hacklink satışlarımız tanıtım yazısı üzerinedir. Elimizde 
 - Genel olarak Anti Seo ve Botnet Saldırı ücreti hedef siteye göre değişiklik göstermektedir. Bu yüzden net bir fiyat vermek yanlış olacaktır. Bu yüzden iletişim adreslerimizden bize ulaşıp hedef sitenizi atarsanız gerekli analizleri yaptıktan sonra size bir ücret çıkartabiliriz. Her saldırı yönteminde ödeme şekli saldırı başlandıktan sonra ücretin yarısı iş bitişinde ise kalan diğer yarısı gönderilmektedir. Botnet saldırılarında test amaçlı demo saldırı ücretsizdir. Anti seo saldırılarında her hangi bir test ‘in mümkün olmadığından dolayı size ancak refarans gösterebiliriz.
 
 ### İletişim Bilgilerimiz.
-
-
-
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
+ Mail: darkseotr@gmail.com
+ Skype: Yakında
+ Telegram: Yakında
+ ICQ: Yakında
 
 ```
 The final element.
