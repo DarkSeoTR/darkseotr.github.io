@@ -2,119 +2,30 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+Merhaba Webmaster ve Seo alemi biz ƊαʀĸѕeoTR Ekibiyiz. Profesyonel Anlamda Black Hat Seo sektöründe hizmet vermekteyiz. Genel olarak verdiğimiz hizmetler sırası ile şunlardır.
 
-[Link to another page](./another-page.html).
+## 🚀 Hacklink 🚀 (‘Tanıtım Yazısı & Footer Link’)
+Genel olarak Hacklink satışlarımız tanıtım yazısı üzerinedir. Elimizde bulunan siteler genel olarak (Gov)ernment - (Edu)cation ve Haber sitelerinden oluşmaktadır.
 
-There should be whitespace between paragraphs.
+**ÖNEMLI BILGILENDIRME !**
+ - Ticaret Legal yada İllegal Dahi Olsa Dürüstlük 1 ‘nci planda olması gereken tek gerçektir. Size satışını sunmuş olduğumuz hiç bir web sitesi bize ait değildir Hacking ‘in yapısı gereği temellerinde kalıcılık diye bir şey yoktur özellikle mevzu Hacklink ise tabikide bu kesinlikle verilen hizmetin 3 -5 gün sonra başkalarınca kaldırılması anlamına gelmez. ƊαʀĸѕeoTR ekibi tarafından kodlanan kontrol ve tekrar ekleme sistemleri ile elimizden geldiğince sizi koruma altına almaktayız. Şayet olur ‘da elimizden bir site kaçar ise eş değer bir site ile telafisini yapmaktayız. Bu konu hakkında bize güvenebilirsiniz.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## 💀 Anti Seo 💀 (‘Rakiplerinizin uykusu kaçacak’)
+ - Kendimize has yöntemlerimiz ile yaptığımız saldırılar Sektörünüzde bulunan Rakip sitelerin Arama Motorlarında çalışma yaptığı Anahtar kelimelerinde ciddi sıralama kayıpları ve tamamen spam yemesi ile sonuçlanmaktadır. Anti Seo alanında kesinlikle acemi kişiler değiliz istenildiği taktirde referans gösterebiliriz. Yaptığımız saldırılar kesinlikle Backlink Explorer araçları tarafından fark edilmez Yaptığımız her türlü saldırı türü tamamen Arama Motoru Search Botları tarafından fark edilmektedir.
 
-# Header 1
+### 🔫 Botnet 🔫 (‘Kuvvete Dayanmayan Adalet Aciz Adalete Dayanmayan Kuvvet Zalimdir.’) 
+- Özel olarak geliştirdiğimiz panelimiz ile Layer 7 saldırı hizmeti sunmaktayız. Kullandığımız Saldırı methodları sırası ile şu şekildedir. HTTP(S) GET / POST / HEAD / SOCKET Saldırıları Ref Saldırısı Yönlendirme Saldırısı Yaptığımız saldırılar Cloudflare gibi sistemler üzerinde etkilidir. Talep edildiği taktirde Layer 4 ve Layer 7 olarak müşteri tercihine göre kişye özel saldırı paneleri hazırlanmaktadır.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Fiyat Listemiz ₺
+- Hacklink Fiyatlarımız. 1 adet siteniz için eklenecek kodun ücreti aylık 20 ₺ olarak sabittir. Bu ücret Tanıtım Yazısı veya Footer Link ayırt etmeksizin geçerlidir Kısaca Footer ve tanıtım ücretimiz aylık 20 Bu ücret Tanıtım Yazısı veya Footer Link ayırt etmeksizin geçerlidir Kısaca Footer ve tanıtım ücretimiz aylık 20 ₺ olarak hesaplanır. Düzenli alım yapan ve güven kazanmış müşterilere toplu alımlarında indirim uygulanmaktadır.
 
-## Header 2
+### Anti Seo & Botnet Fiyatları ve Şartlarımız.
+- Genel olarak Anti Seo ve Botnet Saldırı ücreti hedef siteye göre değişiklik göstermektedir. Bu yüzden net bir fiyat vermek yanlış olacaktır. Bu yüzden iletişim adreslerimizden bize ulaşıp hedef sitenizi atarsanız gerekli analizleri yaptıktan sonra size bir ücret çıkartabiliriz. Her saldırı yönteminde ödeme şekli saldırı başlandıktan sonra ücretin yarısı iş bitişinde ise kalan diğer yarısı gönderilmektedir. Botnet saldırılarında test amaçlı demo saldırı ücretsizdir. Anti seo saldırılarında her hangi bir test ‘in mümkün olmadığından dolayı size ancak refarans gösterebiliriz.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+### İletişim Bilgilerimiz.
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
 
